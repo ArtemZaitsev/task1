@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Переименовал файлы по порядку">
+    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Скорректировал 1-ое задание после просмотренного видео.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_01.php" beforeDir="false" afterPath="$PROJECT_DIR$/task_01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_02.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <workItem from="1606134197421" duration="2435000" />
       <workItem from="1606136950184" duration="4000" />
       <workItem from="1606136976305" duration="2332000" />
-      <workItem from="1606211426454" duration="2431000" />
+      <workItem from="1606211426454" duration="3665000" />
     </task>
     <task id="LOCAL-00001" summary="1 задание. делал самостоятельно">
       <created>1606211757770</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606212293088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Скорректировал 1-ое задание после просмотренного видео.">
+      <created>1606214438394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606214438394</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +132,8 @@
     <MESSAGE value="1 задание. делал самостоятельно" />
     <MESSAGE value="добавляю файлы с заданием" />
     <MESSAGE value="Переименовал файлы по порядку" />
-    <option name="LAST_COMMIT_MESSAGE" value="Переименовал файлы по порядку" />
+    <MESSAGE value="Скорректировал 1-ое задание после просмотренного видео." />
+    <option name="LAST_COMMIT_MESSAGE" value="Скорректировал 1-ое задание после просмотренного видео." />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="174" key="#CLI_Interpreters" timestamp="1606136755848">
@@ -148,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606211935383" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606212299715">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606214443131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606212299715" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606214443131" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606211827782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
