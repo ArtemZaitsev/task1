@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="добавляю файлы с заданием">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1.php" beforeDir="false" afterPath="$PROJECT_DIR$/task_01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_09.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1kgtRDkL5ICCJFogFuurL9m7YiB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="" />
+      <created>1606134056247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606134056247</updated>
+      <workItem from="1606134057829" duration="2000" />
+      <workItem from="1606134197421" duration="2435000" />
+      <workItem from="1606136950184" duration="4000" />
+      <workItem from="1606136976305" duration="2332000" />
+      <workItem from="1606211426454" duration="832000" />
+    </task>
+    <task id="LOCAL-00001" summary="1 задание. делал самостоятельно">
+      <created>1606211757770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606211757770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавляю файлы с заданием">
+      <created>1606212046919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606212046919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 задание. делал самостоятельно" />
+    <MESSAGE value="добавляю файлы с заданием" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавляю файлы с заданием" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="174" key="#CLI_Interpreters" timestamp="1606136755848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="478" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1606136755848" />
+    <state x="667" y="163" key="#PHP" timestamp="1606136102053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606136102053" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606136159987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606136159987" />
+    <state x="672" y="271" key="FileChooserDialogImpl" timestamp="1606211462702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="271" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606211462702" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606211935383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606211935383" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606212056612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606212056612" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606211827782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606211827782" />
+  </component>
+</project>
