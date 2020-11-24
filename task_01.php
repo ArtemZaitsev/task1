@@ -1,12 +1,27 @@
 <?php
 
-$data =
+$items =
     [
-        "Reports",
-        "Analytics",
-        "Export",
-        "Storage",
-    ]
+        [
+            "title" => "reports file asd",
+            "tags" => "Reports"
+        ],
+
+        [
+            "title" => "analytics graphs",
+            "tags" => "Analytics"
+        ],
+
+        [
+            "title" => "export download",
+            "tags" => "Export"
+        ],
+
+        [
+            "title" => "storage",
+            "tags" => "Storage"
+        ],
+    ];
 
 ?>
 
@@ -55,11 +70,10 @@ $data =
                                             </div>
                                         </div>
                                     </div>
-
                                     <ul id="js-list-msg" class="list-group px-2 pb-2 js-list-filter">
-                                        <?php foreach ($data as $row ): ?>
+                                        <?php foreach($items as $item):?>
                                         <li class="list-group-item">
-                                            <span data-filter-tags="reports file"><?= $row?></span>
+                                            <span data-filter-tags=<? echo $item['title'];?>><?php echo $item['tags']?></span>
                                         </li>
                                         <?php endforeach; ?>
                                     </ul>
