@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Скорректировал 1-ое задание после просмотренного видео.">
+    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Сделал 2-ое задание самостоятельно.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_03.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_03.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,11 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Администратор\Desktop\OSPanel\domains\tasks" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +74,7 @@
       <workItem from="1606134197421" duration="2435000" />
       <workItem from="1606136950184" duration="4000" />
       <workItem from="1606136976305" duration="2332000" />
-      <workItem from="1606211426454" duration="3665000" />
+      <workItem from="1606211426454" duration="7302000" />
     </task>
     <task id="LOCAL-00001" summary="1 задание. делал самостоятельно">
       <created>1606211757770</created>
@@ -99,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606214438394</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Сделал 2-ое задание самостоятельно.">
+      <created>1606215963103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606215963103</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,13 +145,18 @@
     <MESSAGE value="добавляю файлы с заданием" />
     <MESSAGE value="Переименовал файлы по порядку" />
     <MESSAGE value="Скорректировал 1-ое задание после просмотренного видео." />
-    <option name="LAST_COMMIT_MESSAGE" value="Скорректировал 1-ое задание после просмотренного видео." />
+    <MESSAGE value="Сделал 2-ое задание самостоятельно." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал 2-ое задание самостоятельно." />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="174" key="#CLI_Interpreters" timestamp="1606136755848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="478" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1606136755848" />
+    <state x="552" y="178" width="816" height="729" key="#Intentions" timestamp="1606219832219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1606219832219" />
     <state x="667" y="163" key="#PHP" timestamp="1606136102053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -156,10 +173,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606211935383" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606214443131">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606215965417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606214443131" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606215965417" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606211827782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

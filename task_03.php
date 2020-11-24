@@ -1,3 +1,26 @@
+<?php
+$data =
+    [
+       [
+        "link" => "yandex.ru",
+        "title" =>"Главная",
+        "is_link" => true
+       ],
+
+        [
+            "link" => "google.com",
+            "title" =>"PHP",
+            "is_link" => true
+        ],
+        [
+            "link" => "#",
+            "title" =>"Функции",
+            "is_link" => false
+        ],
+    ];
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,9 +56,14 @@
                     <div class="panel-container show">
                         <div class="panel-content">
                             <ol class="breadcrumb page-breadcrumb">
-                                <li class="breadcrumb-item"><a href="#">Главная</a></li>
-                                <li class="breadcrumb-item"><a href="#">PHP</a></li>
-                                <li class="breadcrumb-item active">Функции</li>
+                                <?php
+                                foreach ($data as $item):
+                                if ($item['is_link']){?>
+                                <li class="breadcrumb-item"><a href="<? echo $item['link'];?>>"><? echo $item['title'];?></a></li>
+
+                                <?}else{?>
+                                <li class="breadcrumb-item active"><? echo $item['title'];?></li><?};?>
+                                <?php endforeach;?>
                             </ol>
                         </div>
                     </div>
