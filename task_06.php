@@ -7,6 +7,7 @@ $items =
             "place" => "Lead Author",
             "e-amil" => "@myplaneticket",
             "link" => "#",
+            "is_banned" => false,
         ],
 
         [
@@ -15,6 +16,7 @@ $items =
             "place" => "Partner & Contributor",
             "e-amil" => "@atlantez ",
             "link" => "#",
+            "is_banned" => false,
         ],
 
         [
@@ -23,6 +25,7 @@ $items =
             "place" => "Partner & Contributor",
             "e-amil" => "@lodev09",
             "link" => "#",
+            "is_banned" => true,
         ],
 
         [
@@ -31,13 +34,10 @@ $items =
             "place" => "Partner & Contributor",
             "e-amil" => "@sildur ",
             "link" => "#",
+            "is_banned" => true,
         ]
     ];
-?>
-
-
-
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="en">
 <head>
         <meta charset="utf-8">
@@ -71,22 +71,42 @@ $items =
                     </div>
                     <div class="panel-container show">
                         <div class="panel-content">
-                           <div class="d-flex flex-wrap demo demo-h-spacing mt-3 mb-3">
-                               <?php foreach($items as $item):?>
-                               <div class="rounded-pill bg-white shadow-sm p-2 border-faded mr-3 d-flex flex-row align-items-center justify-content-center flex-shrink-0">
-                                <img src="<? echo $item['path_img'];?>" alt="Sunny A." class="img-thumbnail img-responsive rounded-circle" style="width:5rem; height: 5rem;">
-                                <div class="ml-2 mr-3">
-                                    <h5 class="m-0">
-                                        <?php echo $item['name_technology'];?>
-                                        <small class="m-0 fw-300">
-                                            <?php echo $item['place'];?>
-                                        </small>
-                                    </h5>
-                                    <a href="https://twitter.com/<?php echo $item['link'];?>" class="text-info fs-sm" target="_blank"><?php echo $item['e-amil'];?></a> -
-                                    <a href="https://wrapbootstrap.com/user/myorange" class="text-info fs-sm" target="_blank" title="Contact Sunny"><i class="fal fa-envelope"></i></a>
-                                </div>
+                            <div class="d-flex flex-wrap demo demo-h-spacing mt-3 mb-3">
+                                <?php
+                                foreach($items as $item):
+                                if (!($item['is_banned'])){?>
+
+                                    <div class="rounded-pill bg-white shadow-sm p-2 border-faded mr-3 d-flex flex-row align-items-center justify-content-center flex-shrink-0">
+                                        <img src="<? echo $item['path_img'];?>" alt="Sunny A." class="img-thumbnail img-responsive rounded-circle" style="width:5rem; height: 5rem;">
+                                        <div class="ml-2 mr-3">
+                                            <h5 class="m-0">
+                                                <?php echo $item['name_technology'];?>
+                                                <small class="m-0 fw-300">
+                                                    <?php echo $item['place'];?>
+                                                </small>
+                                            </h5>
+                                            <a href="https://twitter.com/<?php echo $item['link'];?>" class="text-info fs-sm" target="_blank"><?php echo $item['e-amil'];?></a> -
+                                            <a href="https://wrapbootstrap.com/user/myorange" class="text-info fs-sm" target="_blank" title="Contact Sunny"><i class="fal fa-envelope"></i></a>
+                                        </div>
+                                    </div>
+
+                                <?}else{?>
+
+                                <div class="banned rounded-pill bg-white shadow-sm p-2 border-faded mr-3 d-flex flex-row align-items-center justify-content-center flex-shrink-0">
+                                    <img src="<? echo $item['path_img'];?>" alt="Jovanni Lo" class="img-thumbnail img-responsive rounded-circle" style="width:5rem; height: 5rem;">
+                                    <div class="ml-2 mr-3">
+                                        <h5 class="m-0">
+                                            <?php echo $item['name_technology'];?>
+                                            <small class="m-0 fw-300">
+                                                <?php echo $item['place'];?>
+                                            </small>
+                                        </h5>
+                                        <a href="https://twitter.com/<?php echo $item['link'];?>" class="text-info fs-sm" target="_blank"><?php echo $item['e-amil'];?></a> -
+                                        <a href="https://wrapbootstrap.com/user/lodev09" class="text-info fs-sm" target="_blank" title="Contact Jovanni"><i class="fal fa-envelope"></i></a>
+                                    </div>
+                                </div><?};?>
+                                <?php endforeach;?>
                             </div>
-                           <?php endforeach;?>
                         </div>
                         </div>
                     </div>

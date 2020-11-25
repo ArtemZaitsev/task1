@@ -25,9 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Сделал 4-е задание.">
+    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Сделал 5-е задание.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_05.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_05.php" beforeDir="false" afterPath="$PROJECT_DIR$/task_05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_06.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_06.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <workItem from="1606136976305" duration="2332000" />
       <workItem from="1606211426454" duration="7591000" />
       <workItem from="1606226768349" duration="3867000" />
-      <workItem from="1606311324568" duration="1535000" />
+      <workItem from="1606311324568" duration="3238000" />
     </task>
     <task id="LOCAL-00001" summary="1 задание. делал самостоятельно">
       <created>1606211757770</created>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606230394349</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Сделал 5-е задание.">
+      <created>1606312904537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606312904537</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +180,8 @@
     <MESSAGE value="Сделал 2-ое задание самостоятельно." />
     <MESSAGE value="Сделал 3-е задание." />
     <MESSAGE value="Сделал 4-е задание." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал 4-е задание." />
+    <MESSAGE value="Сделал 5-е задание." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал 5-е задание." />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="174" key="#CLI_Interpreters" timestamp="1606136755848">
@@ -199,10 +208,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606211935383" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606230400717">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606312909097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606230400717" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606312909097" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606211827782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
