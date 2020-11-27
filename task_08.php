@@ -6,6 +6,7 @@ $statement = $pdo->prepare($sql);
 $statement->execute();
 $items = $statement->fetchAll(PDO::FETCH_ASSOC);
 
+
 ?>
 
 
