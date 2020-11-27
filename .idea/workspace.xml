@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Сделал 6-е задание после просмотра видео.">
-      <change afterPath="$PROJECT_DIR$/task_07.php" afterDir="false" />
+    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Сделал 7-е задание после просмотра видео.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_08.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_08.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1606211426454" duration="7591000" />
       <workItem from="1606226768349" duration="3867000" />
       <workItem from="1606311324568" duration="4711000" />
-      <workItem from="1606472562403" duration="1534000" />
+      <workItem from="1606472562403" duration="3958000" />
     </task>
     <task id="LOCAL-00001" summary="1 задание. делал самостоятельно">
       <created>1606211757770</created>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606315459387</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Сделал 7-е задание после просмотра видео.">
+      <created>1606474268549</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606474268549</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +204,8 @@
     <MESSAGE value="Сделал 5-е задание." />
     <MESSAGE value="Сделал 6-е задание." />
     <MESSAGE value="Сделал 6-е задание после просмотра видео." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал 6-е задание после просмотра видео." />
+    <MESSAGE value="Сделал 7-е задание после просмотра видео." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал 7-е задание после просмотра видео." />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="174" key="#CLI_Interpreters" timestamp="1606136755848">
@@ -224,10 +232,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606211935383" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606315464265">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606474297988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606315464265" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606474297988" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606211827782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
