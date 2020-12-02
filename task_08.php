@@ -1,6 +1,6 @@
 <?php
 
-$pdo = new PDO("mysql:host=localhost;dbname=table","root", "");
+$pdo = new PDO("mysql:host=localhost;dbname=table","root", "root");
 $sql = "SELECT * FROM tasks";
 $statement = $pdo->prepare($sql);
 $statement->execute();
@@ -8,7 +8,7 @@ $items = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 
 ?>
-
+// Восстановил работу компа
 
 <!DOCTYPE html>
 <html lang="en">
