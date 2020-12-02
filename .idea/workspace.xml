@@ -25,9 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="Сделал 7-е задание после просмотра видео.">
+    <list default="true" id="ee019bc2-2acd-438c-bdd2-bf9753598cbe" name="Default Changelist" comment="восстановил работу компа">
+      <change afterPath="$PROJECT_DIR$/save_9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_08.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_08.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_09.html" beforeDir="false" afterPath="$PROJECT_DIR$/task_09.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1kgtRDkL5ICCJFogFuurL9m7YiB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Администратор\Desktop\OpenServer\domains\tasks3" />
       <recent name="C:\Users\Администратор\Desktop\OSPanel\domains\tasks" />
     </key>
   </component>
@@ -78,6 +80,7 @@
       <workItem from="1606226768349" duration="3867000" />
       <workItem from="1606311324568" duration="4711000" />
       <workItem from="1606472562403" duration="3958000" />
+      <workItem from="1606907629032" duration="2332000" />
     </task>
     <task id="LOCAL-00001" summary="1 задание. делал самостоятельно">
       <created>1606211757770</created>
@@ -163,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606474268549</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="восстановил работу компа">
+      <created>1606907855266</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606907855266</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +215,8 @@
     <MESSAGE value="Сделал 6-е задание." />
     <MESSAGE value="Сделал 6-е задание после просмотра видео." />
     <MESSAGE value="Сделал 7-е задание после просмотра видео." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал 7-е задание после просмотра видео." />
+    <MESSAGE value="восстановил работу компа" />
+    <option name="LAST_COMMIT_MESSAGE" value="восстановил работу компа" />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="174" key="#CLI_Interpreters" timestamp="1606136755848">
@@ -216,9 +227,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1606219832219" />
-    <state x="667" y="163" key="#PHP" timestamp="1606136102053">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="534" y="111" key="#PHP" timestamp="1606907650304">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="534" y="111" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1606907650304" />
     <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1606136102053" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606136159987">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -232,9 +244,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606211935383" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606474297988">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1606907860668">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606907860668" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606474297988" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606211827782">
       <screen x="0" y="0" width="1920" height="1040" />
